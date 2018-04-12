@@ -4,6 +4,7 @@ import {
   Text,
   View,
   Image,
+  FlatList, // Please, use FlatList Component
   ScrollView,
   ActivityIndicator
 } from 'react-native'
